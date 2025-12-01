@@ -70,5 +70,29 @@ ________________________________________
 •	Compare team strengths using opponent matrix and total wins.
 •	Evaluate overall IPL match trends, run patterns, and toss decisions.
 ________________________________________
+📸 Dashboard Screenshots
+1️⃣ IPL Reports
+A detailed IPL reporting dashboard summarizing team performance, wins, losses, run rates, and comparative analytics.
+🔗 Image Link:
+https://github.com/DK116-star/Ipl-Analytics-Dashboards/blob/main/IPL%20REPORTS.png
+ 
+________________________________________
+2️⃣ Summary of All Matches
+A complete overview of IPL match statistics including total runs, wickets, match outcomes, and season-wide insights.
+🔗 Image Link:
+https://github.com/DK116-star/Ipl-Analytics-Dashboards/blob/main/SUMMARY%20OF%20ALL%20MATCHES.png
+ 
+________________________________________
+3️⃣ Orange Cap Holders
+This dashboard showcases the leading run scorers of the IPL season, highlighting total runs, strike rates, and overall batting performance.
+🔗 Image Link:
+https://github.com/DK116-star/Ipl-Analytics-Dashboards/blob/main/ORANGE%20CAP%20HOLDERS.png
+ 
+________________________________________
+4️⃣ Purple Cap Holders
+This page represents top bowlers with the highest wicket counts, including economy rates and match-wise performance.
+🔗 Image Link:
+https://github.com/DK116-star/Ipl-Analytics-Dashboards/blob/main/PURPLE%20CAP%20HOLDERS.png
+
 
 
